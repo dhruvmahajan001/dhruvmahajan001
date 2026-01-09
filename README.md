@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Dhruv 👋
 
-<!--
-**dhruvmahajan001/dhruvmahajan001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Frontend Developer  
+🚀 Aspiring Software Engineer  
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- HTML, CSS, JavaScript
+- React (learning)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Featured Projects
+- 🛒 Amazon Clone
+- ✅ Todo App
+- 🧮 Calculator
+- 🎮 Mini JavaScript Games
+
+### 🌐 Portfolio
+https://dhruvmahajan001/github.io/Portfolio
+
+📫 Reach me: dhruv.mahajan6969@gmail.com
