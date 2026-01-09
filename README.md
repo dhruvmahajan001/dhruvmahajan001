@@ -42,8 +42,8 @@ I enjoy building clean, responsive web applications and learning how real-world 
 
 ## 📫 Contact
 - Email: dhruv.mahajan6969@gmail.com
-- GitHub: [dhruvmahajan001](https://github.com/dhruvmahajan001)
-- LinkedIn: [dhruv-mahajan6969](www.linkedin.com/in/dhruv-mahajan6969)
+- GitHub: https://github.com/dhruvmahajan001
+- LinkedIn: www.linkedin.com/in/dhruv-mahajan6969
 
 ---
 
