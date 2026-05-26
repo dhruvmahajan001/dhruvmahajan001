@@ -1,8 +1,7 @@
 
 # Hi, I'm Dhruv Mahajan 👋
 
--🚀 Full-Stack Developer | MERN Stack Enthusiast | Hackathon Builder
-
+-🚀 Full-Stack Developer | MERN Stack Enthusiast | Hackathon Builder 
 -🎓 B.Tech IT Student at Noida Institute of Engineering and Technology
 -💡 Passionate about building scalable web applications, modern UIs, and AI-powered projects.
 
