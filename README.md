@@ -24,36 +24,18 @@ I focus on writing clean, maintainable code and creating responsive user experie
 
 ---
 
-## 🚀 Tech Stack
+## ⚡ Tech Stack
 
-### Frontend
+**Frontend:** React.js, Tailwind CSS, Vite
+**Backend:** Node.js, Express.js
+**Database:** MongoDB
+**Languages:** JavaScript, HTML5, CSS3
+**Tools:** Git, GitHub, Netlify, Render, Postman
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* React.js
-* Tailwind CSS
-* Vite
-
-### Backend
-
-* Node.js
-* Express.js
-* REST APIs
-
-### Database
-
-* MongoDB
-
-### Tools & Platforms
-
-* Git & GitHub
-* Netlify
-* Render
-* Postman
 
 ### Currently Learning
 
+* DSA
 * Advanced React
 * Backend Architecture
 * DevOps Basics
