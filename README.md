@@ -1,52 +1,115 @@
-# Hi, I'm Dhruv 👋
 
-🎓 Computer Science Student  
-💻 Aspiring Software Engineer  
-🌐 Frontend Developer | Full-Stack Learner  
+# Hi, I'm Dhruv Mahajan 👋
 
-I enjoy building clean, responsive web applications and learning how real-world software is designed and developed. I focus on writing simple, readable code and improving my skills through hands-on projects.
+🚀 Full-Stack Developer | MERN Stack Enthusiast | Hackathon Builder
+🎓 B.Tech IT Student at Noida Institute of Engineering and Technology
+💡 Passionate about building scalable web applications, modern UIs, and AI-powered projects.
 
 ---
 
-## 🔧 Skills & Technologies
-- HTML5, CSS3, JavaScript (ES6+)
-- Responsive Web Design
-- Git & GitHub
-- Basics of React (learning)
-- Basic Backend Concepts (learning)
+## 💻 About Me
+
+I enjoy building full-stack web applications and experimenting with modern technologies including MERN stack, AI integrations, and cloud deployment workflows.
+
+I actively improve my development skills through:
+
+* Real-world projects
+* Hackathons
+* Open-source learning
+* Continuous frontend & backend development practice
+
+I focus on writing clean, maintainable code and creating responsive user experiences.
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* React.js
+* Tailwind CSS
+* Vite
+
+### Backend
+
+* Node.js
+* Express.js
+* REST APIs
+
+### Database
+
+* MongoDB
+
+### Tools & Platforms
+
+* Git & GitHub
+* Netlify
+* Render
+* Postman
+
+### Currently Learning
+
+* Advanced React
+* Backend Architecture
+* DevOps Basics
+* System Design Fundamentals
+
+---
+
+## 🏆 Achievements
+
+* 🥈 Semi-Finalist — RIFT'26 Hackathon
+* 👨‍💻 Built multiple deployed full-stack projects
+* 🚀 Active GitHub project developer
 
 ---
 
 ## 📂 Featured Projects
-- 🛒 **Amazon Clone** – Frontend UI clone of Amazon homepage  
-- ✅ **Todo List App** – Task management using JavaScript  
-- 🧮 **Calculator** – Interactive calculator with clean UI  
-- 🎮 **JavaScript Mini Projects** – Practice projects to strengthen core JS
 
-👉 Check my repositories to see all projects.
+### 🔍 TruthLens AI – Deepfake & Manipulated Media Detector
+
+AI-powered web application for detecting fake and manipulated content using NLP and Deep Learning.
+
+**Tech:** MERN Stack, FastAPI, HuggingFace, PyTorch
+
+🔗 Live: https://truthlens001.netlify.app
 
 ---
 
-## 🚀 What I'm Currently Doing
-- Learning Full-Stack Web Development
-- Improving JavaScript & React skills
-- Building real-world frontend projects
-- Preparing for internships & entry-level roles
+### 🎬 CineTalk
+
+Full-stack MERN movie platform with responsive UI and movie discovery features.
+
+**Tech:** React.js, Node.js, Express.js, MongoDB
+
+🔗 Live: https://cinetalk01.netlify.app/
+
+---
+
+### 😏 SarcasmOS
+
+A futuristic sarcastic OS-inspired frontend experience with modern animations and UI design.
+
+🔗 Live: https://sarcasmos.netlify.app
 
 ---
 
 ## 🌐 Portfolio
-https://portfolio-dhruvmahajan001.netlify.app/
+
+🔗 https://portfolio-dhruvmahajan001.netlify.app/
 
 ---
 
-## 📫 Contact
-- Email: dhruv.mahajan6969@gmail.com
-- GitHub: https://github.com/dhruvmahajan001
-- LinkedIn: www.linkedin.com/in/dhruv-mahajan6969
+## 📫 Connect With Me
+
+* GitHub: https://github.com/dhruvmahajan001
+* LinkedIn: https://www.linkedin.com/in/dhruv-mahajan6969/
+* Email: [dhruv.mahajan6969@gmail.com](mailto:dhruv.mahajan6969@gmail.com)
 
 ---
 
-⭐ Feel free to explore my repositories and share feedback!
-
+⭐ Always open to learning, collaborating, and internship opportunities.
 
