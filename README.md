@@ -36,7 +36,7 @@ I enjoy building clean, responsive web applications and learning how real-world 
 ---
 
 ## 🌐 Portfolio
-[Click here](https://dhruvmahajan001.github.io/Portfolio/)
+https://dhruvmahajan001.github.io/Portfolio/
 
 ---
 
